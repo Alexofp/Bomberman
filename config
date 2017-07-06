@@ -1,0 +1,28 @@
+controls 0 up 119
+controls 0 down 115
+controls 0 left 97
+controls 0 right 100
+controls 0 bomb 101
+
+controls 1 up 259
+controls 1 down 258
+controls 1 left 260
+controls 1 right 261
+controls 1 bomb 32
+
+controls 2 up 105
+controls 2 down 107
+controls 2 left 106
+controls 2 right 108
+controls 2 bomb 111
+
+controls 3 up 56
+controls 3 down 53
+controls 3 left 52
+controls 3 right 54
+controls 3 bomb 57
+
+bombTimer 60
+bombFireTimer 50
+bombFireCenterTimer 60
+rockChance 80

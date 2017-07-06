@@ -1,0 +1,182 @@
+[config.c][line: 50] Binded key 119 to up of player 0
+[config.c][line: 55] Binded key 115 to down of player 0
+[config.c][line: 60] Binded key 97 to left of player 0
+[config.c][line: 65] Binded key 100 to right of player 0
+[config.c][line: 70] Binded key 101 to bomb of player 0
+[config.c][line: 50] Binded key 259 to up of player 1
+[config.c][line: 55] Binded key 258 to down of player 1
+[config.c][line: 60] Binded key 260 to left of player 1
+[config.c][line: 65] Binded key 261 to right of player 1
+[config.c][line: 70] Binded key 32 to bomb of player 1
+[config.c][line: 50] Binded key 105 to up of player 2
+[config.c][line: 55] Binded key 107 to down of player 2
+[config.c][line: 60] Binded key 106 to left of player 2
+[config.c][line: 65] Binded key 108 to right of player 2
+[config.c][line: 70] Binded key 111 to bomb of player 2
+[config.c][line: 50] Binded key 56 to up of player 3
+[config.c][line: 55] Binded key 53 to down of player 3
+[config.c][line: 60] Binded key 52 to left of player 3
+[config.c][line: 65] Binded key 54 to right of player 3
+[config.c][line: 70] Binded key 57 to bomb of player 3
+[menu.c][line: 17] You pressed 259
+[menu.c][line: 17] You pressed 258
+[menu.c][line: 17] You pressed 260
+[menu.c][line: 17] You pressed 261
+[menu.c][line: 17] You pressed 10
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[menu.c][line: 17] You pressed 10
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 97
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 119
+[game.c][line: 16] You pressed 100
+[game.c][line: 16] You pressed 101
+[game.c][line: 16] You pressed 115
+[game.c][line: 16] You pressed 101
+[menu.c][line: 17] You pressed 258
+[menu.c][line: 17] You pressed 10
