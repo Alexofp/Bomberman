@@ -2,9 +2,9 @@
 Console bomberman for Linux written in C with ncurses
 
 # Features
-Local coop
-Smart bots
-2 power ups
+* Local coop<br />
+* Smart bots<br />
+* 2 power ups
 
 # Screenshots
 ![Menu](screenshots/2.png?raw=true "Main menu")
